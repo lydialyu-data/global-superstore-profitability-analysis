@@ -2,7 +2,7 @@
 
 ## 1. Project Background
 
-Global Superstore is a multinational retail company operating across multiple markets. Between 2014 and 2017, the company experienced continuous sales growth. However, profit margin failed to improve at the same pace.
+Global Superstore is a multinational retail company operating across multiple markets. Between 2022 and 2025, the company experienced continuous sales growth. However, profit margin failed to improve at the same pace.
 
 This project investigates the underlying causes of declining profitability using SQL, Python and Tableau, with the objective of providing data-driven business recommendations.
 
@@ -62,7 +62,7 @@ The analysis identified several critical business insights:
 
 ### 1. Continuous Sales Growth Did Not Translate into Profit Growth
 
-Although total sales increased steadily between 2014 and 2017, profit margin remained relatively flat and even declined slightly in the final year.
+Although total sales increased steadily between 2022 and 2025, profit margin remained relatively flat and even declined slightly in the final year.
 
 This indicates that revenue growth alone was insufficient to improve overall business profitability.
 
