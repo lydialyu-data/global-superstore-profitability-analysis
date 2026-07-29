@@ -41,7 +41,7 @@ This project answers the following questions:
 ---
 ## Key Findings
 
-• Sales increased steadily from 2014 to 2017.
+• Sales increased steadily from 2022 to 2025.
 
 • Profit growth slowed despite higher revenue.
 
